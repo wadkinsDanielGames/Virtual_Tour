@@ -1,0 +1,9 @@
+<<<<<<< Updated upstream
+m_EditorVersion: 2017.4.1f1
+=======
+<<<<<<< Updated upstream
+m_EditorVersion: 2017.3.1f1
+=======
+m_EditorVersion: 2017.4.0f1
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
